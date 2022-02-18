@@ -1,0 +1,1 @@
+java -cp lib/*;autoSign.jar com.eProceed.CAutoSign -a xxxxxx -p xxxxxx -o
